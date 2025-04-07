@@ -14,7 +14,7 @@
         
         Translation contributed by:  CMTRiX
         
-        Date last update:            2024/12/27
+        Date last update:            2025/04/07
         
         ======================================================================
     -->
@@ -331,5 +331,14 @@
     <sys:String x:Key="TaskResult_ReadyToRun">RDY</sys:String>
     <sys:String x:Key="TaskResult_Running">RUN</sys:String>
     <sys:String x:Key="TaskResult_Terminated">TRM</sys:String>
+
+		<sys:String x:Key="About_UpdateFound">Er is een nieuwe versie beschikbaar!</sys:String>
+		<sys:String x:Key="About_UpdateFoundTooltip">Bezoek de GitHub pagina</sys:String>
+		<sys:String x:Key="Button_CompareLanguageToolTip">Vergelijk het huidige taalbestand met het standaard (en-US) bestand. Resultaten worden geschreven in het logbestand</sys:String>
+		<sys:String x:Key="MsgText_Error_TestLanguage">Er is een probleem met het taalbestand</sys:String>
+		<sys:String x:Key="MsgText_FontSizeSet">Font grootte ingesteld op (0)</sys:String>
+		<sys:String x:Key="SettingsItem_AutoUpdateCheck">Controleer automatisch op nieuwe versies als de "Over" pagina is geopend</sys:String>
+		<sys:String x:Key="SettingsItem_DisplayFontSize">Font grootte</sys:String>
+
 
 </ResourceDictionary>
